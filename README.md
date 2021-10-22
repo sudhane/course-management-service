@@ -1,6 +1,7 @@
 # course-management-service
 
-Updated from GitHub Web UI
+Updated ReadMe notes from local
+
 
 1. To run locally,Below is the pre-requisites -- Java 9 -- Maven -- Locally,I have used (STS). But, anyway you can be able to run this app.
 
