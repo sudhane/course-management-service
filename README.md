@@ -1,5 +1,7 @@
 # course-management-service
 
+ReadMe notes updated in feature-12 branch
+
 1. To run locally,Below is the pre-requisites -- Java 9 -- Maven -- Locally,I have used (STS). But, anyway you can be able to run this app.
 
 2. Internet is required.Database is on cloud (PostgreSQL tiny instanceprovider). it's a free instance, so it have some limitations, like number of DB connections.
